@@ -5,10 +5,7 @@ const OurTeam = () => {
     return (
         <div container-fluid p-0>
             <div className="d-flex flex-column page-title-container justify-content-center align-items-center">
-                <div className="text-center" data-aos="fade-down">
-                    <h2 className="fw-bold page-title fs-1">Our Team</h2>
-                    <p>Our Professionals</p>
-                </div>
+                
             </div>
             <div className="container text-secondary">
                 <h2 className="text-center mt-5">Our Psychiatrists</h2>

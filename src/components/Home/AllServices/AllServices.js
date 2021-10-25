@@ -40,12 +40,10 @@ const AllServices = () => {
             </div>
 
             <div className="text-center text-secondary" data-aos="fade-up">
-                <p className="fw-lighter">Life Spring Psychiatric Clinic</p>
-                <h4 className="fw-bold ">Psychiatric management focusing on biological, psychological and social factors.</h4>
+                
+                
                 <p >
-                    <small>
-                        Clinical Services includes diagnostic and treatment services for all range of mental health problems.
-                    </small>
+                    
                 </p>
             </div>
 

@@ -44,21 +44,18 @@ const Header = () => {
                             <li className="nav-item cool-link">
                                 <HashLink as={HashLink} to="/home#ourservices" className="nav-link">SERVICES</HashLink>
                             </li>
-                            <li className="nav-item cool-link">
-                                <Link to="/about" className="nav-link">ABOUT US</Link>
-                            </li>
-                            <li className="nav-item cool-link">
-                                <Link to="/blog" className="nav-link">BLOG</Link>
-                            </li>
+                            
                             <li className="nav-item cool-link">
                                 <Link to="/our-team" className="nav-link">OUR TEAM</Link>
                             </li>
                             <li className="nav-item cool-link">
                                 <Link to="/appointment" className="nav-link">
-                                    BOOK AN APPOINTMENT
+                                     APPOINTMENT
                                 </Link>
                             </li>
-                            
+                            <li className="nav-item cool-link">
+                                <Link to="/about" className="nav-link">ABOUT US</Link>
+                            </li>
                             
                             
                             
