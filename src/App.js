@@ -21,6 +21,7 @@ import Footer from './components/Footer/Footer';
 import Blogs from './components/Blog/Blogs/Blogs';
 import ReadBlog from './components/Blog/ReadBlog/ReadBlog';
 import ScrollToTop from './components/ScrollToTop/ScrollToTop';
+import AllServices from './components/Home/AllServices/AllServices';
 
 
 function App() {
@@ -42,7 +43,6 @@ function App() {
               <Route path="/home">
                 <Home></Home>
               </Route>
-              
 
               <Route path="/about">
                 <AboutUs></AboutUs>

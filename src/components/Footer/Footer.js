@@ -14,12 +14,12 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-lg-3 col-sm-6">
                                 <div className="address">
-                                    <h3>LifeSpring</h3>
+                                    <h3>Life & Care Hospital</h3>
                                     <p className="mb-4 mt-4">
-                                        Level # 6 & 14, Union Heights (Extension Wing # 2 - Square Hospitals), 55/2 Panthapath 1205 Dhaka, 1205
+                                        43/c R-2 , Mohammadpur , Dhaka Bangladesh
                                     </p>
-                                    <p><strong>Phone:</strong> 09638-505505 (10AM-5PM)</p>
-                                    <p><strong>Email:</strong> kushal@lifespringweb.com</p>
+                                    <p><strong>Phone:</strong> 09638-505505 (24*7)</p>
+                                    <p><strong>Email:</strong> help@lifecare.com</p>
                                 </div>
                             </div>
 
@@ -37,10 +37,10 @@ const Footer = () => {
                             <div className="col-lg-3 col-sm-6 footer-menus">
                                 <h4>Our Services</h4>
                                 <ul>
-                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Anxiety</Link></li>
-                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Depression</Link></li>
-                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Panic disorder</Link></li>
-                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Schizophrenia</Link></li>
+                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Baby Care</Link></li>
+                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">X-Ray</Link></li>
+                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Cardiology</Link></li>
+                                    <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">Covid19</Link></li>
                                     <li><i className="fas fa-check"></i> <Link as={HashLink} to="/home#our-services">And More...</Link></li>
                                 </ul>
                             </div>
@@ -67,9 +67,9 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-12">
                                 <p >
-                                    Copyright &copy; <span id="currentYear"></span> Yellow Devs | Site designed by <a
-                                        href="https://yellow-devs.netlify.app/" target="_blank" rel="noreferrer" title="Yellow Devs Website">
-                                        <span className="text-white"  >Yellow Devs</span></a>
+                                    Copyright &copy; <span id="currentYear"></span> Mahtab @45 | Site designed by <a
+                                        href="" target="_blank" rel="noreferrer" title="">
+                                        <span className="text-white"  >Mahtab @45</span></a>
                                 </p>
                             </div>
                         </div>
