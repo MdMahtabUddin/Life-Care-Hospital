@@ -42,6 +42,7 @@ function App() {
               <Route path="/home">
                 <Home></Home>
               </Route>
+              
 
               <Route path="/about">
                 <AboutUs></AboutUs>
@@ -66,6 +67,8 @@ function App() {
               <PrivateRoute path="/serviceDetails/:serviceId">
                 <ServiceDetails></ServiceDetails>
               </PrivateRoute>
+              
+              
 
               <Route path="/login">
                 <Login></Login>
