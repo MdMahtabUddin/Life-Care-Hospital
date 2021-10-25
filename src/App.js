@@ -20,8 +20,7 @@ import OurTeam from './components/OurTeam/OurTeam';
 import Footer from './components/Footer/Footer';
 import Blogs from './components/Blog/Blogs/Blogs';
 import ReadBlog from './components/Blog/ReadBlog/ReadBlog';
-import ScrollToTop from './components/ScrollToTop/ScrollToTop';
-import AllServices from './components/Home/AllServices/AllServices';
+
 
 
 function App() {
@@ -31,7 +30,7 @@ function App() {
       <AuthProvider>
 
         <Router>
-          <ScrollToTop>
+          
             <Header></Header>
 
             <Switch>
@@ -82,7 +81,7 @@ function App() {
 
             <Footer></Footer>
 
-          </ScrollToTop>
+          
         </Router>
 
       </AuthProvider>

@@ -68,7 +68,7 @@ const Footer = () => {
                             <div className="col-12">
                                 <p >
                                     Copyright &copy; <span id="currentYear"></span> Mahtab @45 | Site designed by <a
-                                        href="" target="_blank" rel="noreferrer" title="">
+                                        href="git" target="_blank" rel="noreferrer" title="">
                                         <span className="text-white"  >Mahtab @45</span></a>
                                 </p>
                             </div>
