@@ -21,9 +21,10 @@ const Header = () => {
         <div className="sticky-top">
             
             <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
-                <div className="container-fluid">
+                <div className="container">
+                <h5>Life & Care Hospital</h5>
                     <Link to="/home">
-                        <h5>Life & Care Hospital</h5>
+                        
                     </Link>
                     {/* <HashLink to="/home#ourservices">Link to Hash Fragment</HashLink> */}
 
@@ -33,7 +34,11 @@ const Header = () => {
 
                     <div className="  collapse navbar-collapse " id="navbarNav">
                         <ul className="navbar-nav fw-bold">
-                            <li className="nav-item cool-link">
+                            
+                        </ul>
+                        <ul className=" d-flex align-items-center navbar-nav ms-auto mb-2 mb-lg-0">
+                            
+                        <li className="nav-item cool-link">
                                 <Link to="/" className="nav-link">HOME</Link>
                             </li>
                             <li className="nav-item cool-link">
@@ -53,9 +58,12 @@ const Header = () => {
                                     BOOK AN APPOINTMENT
                                 </Link>
                             </li>
-
-                        </ul>
-                        <ul className=" d-flex align-items-center navbar-nav ms-auto mb-2 mb-lg-0">
+                            
+                            
+                            
+                            
+                            
+                            
                             <li className="nav-item fw-bold">
                                 <span>
                                     {user.email ?
