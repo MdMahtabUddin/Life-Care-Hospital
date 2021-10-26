@@ -18,8 +18,7 @@ import AboutUs from './components/AboutUs/AboutUs';
 import Appointment from './components/Appointment/Appointment';
 import OurTeam from './components/OurTeam/OurTeam';
 import Footer from './components/Footer/Footer';
-import Blogs from './components/Blog/Blogs/Blogs';
-import ReadBlog from './components/Blog/ReadBlog/ReadBlog';
+
 import AllServices from './components/Home/AllServices/AllServices';
 
 
@@ -59,13 +58,7 @@ function App() {
                 <OurTeam></OurTeam>
               </Route>
 
-              <Route path="/blog">
-                <Blogs></Blogs>
-              </Route>
-
-              <Route path="/readBlog/:blogId">
-                <ReadBlog></ReadBlog>
-              </Route>
+              
 
               <PrivateRoute path="/serviceDetails/:serviceId">
                 <ServiceDetails></ServiceDetails>

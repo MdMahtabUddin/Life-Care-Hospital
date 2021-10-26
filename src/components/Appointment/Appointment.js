@@ -1,5 +1,5 @@
 import React from 'react';
-import GoogleMaps from '../GoogleMaps/GoogleMaps';
+
 import MyForm from './MyForm';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhoneAlt, faMobileAlt, faFax, faEnvelope } from '@fortawesome/free-solid-svg-icons'
@@ -28,10 +28,7 @@ const Appointment = () => {
                             <hr />
                         </div>
 
-                        <div className="">
-                            <h5>Life & Care Hospital</h5>
-                            <GoogleMaps></GoogleMaps>
-                        </div>
+                        
                     </div>
 
                     <div className="col-md-6">

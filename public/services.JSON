@@ -11,17 +11,17 @@
         "id": "102",
         "name": "X-RAY",
         "price": "1400",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "The radiology department may also be called the X-ray or imaging department. It is the facility in the hospital where radiological examinations of patients are carried out, using the range of equipment listed above.",
         "image": "https://imgur.com/JXF8So6.jpg",
-        "serviceDetail": ""
+        "serviceDetail": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. ... The most familiar use of x-rays is checking for fractures (broken bones), but x-rays are also used in other ways. For example, chest x-rays can spot pneumonia."
     },
     {
         "id": "103",
         "name": "Cardiology Surgery",
         "price": "180000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "A cardiac surgeon is a type of cardiology surgeon who specializes in operating on the heart, its valves and structures, and the important veins and arteries near it. ... Another name for a cardiac surgeon is a cardiovascular surgeon.",
         "image": "https://imgur.com/o0TU48l.jpg",
-        "serviceDetail": "."
+        "serviceDetail": "surgeons have always held a title that earned them respect from their medical peers. They also earn a high income. However, technological advances have made way for new procedures involved in heart surgery."
     },
     {
         "id": "104",

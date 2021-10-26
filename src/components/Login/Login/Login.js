@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './Login.css';
 import { useHistory, useLocation } from 'react-router';
 import useAuth from '../../../hooks/useAuth';
-import logo from '../../../images/logo.png';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleDoubleUp } from '@fortawesome/free-solid-svg-icons'
@@ -170,7 +169,7 @@ const Login = () => {
                     <form className="login-form bg-white pb-5 pt-3 px-5 border" onSubmit={handleRegistration} >
 
                         <div className="text-center">
-                            <img src={logo} alt="" />
+                            {/* <img src={logo} alt="" /> */}
                         </div>
 
                         <h5 className="mt-3 fw-bold">Please {isLogin ? 'Login' : 'Register'} </h5>

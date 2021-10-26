@@ -21,8 +21,12 @@ const HeroSection = () => {
                     
                     <p className="text-secondary">
                         <small>
-                            <Typist>
-                                Our Private Psychiatrists London specialise in assesment and treatment for the full range of psychiatric disorders including Assessment, Diagnosis, Treatment plans, Psychological treatment, Counselling and prescribe Medications.
+                            <Typist className="typist" >
+                            “I wanted to send these blessings to all of you working the front line and keeping our friends and family safe & comfortable in your care! You are truly God's blessings.” Judith
+<br />
+“Real heroes wear masks below their eyes.” Larry
+<br />
+“Praying for protection for all of the doctors and nurses right now.” Dianna
                             </Typist>
 
                         </small>

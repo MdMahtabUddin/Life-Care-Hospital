@@ -19,7 +19,7 @@ const AboutUs = () => {
             <div className="col-md-6 p-5">
               <h1 className="my-5 text-success">About Us</h1>
               <p>
-                About Us! Royal Multispeciality Hospital was established in 2014.
+                About Us! Life & Care Hospital was established in 2021.
                 It is one of the speciality and superspeciality hospital which
                 extends medical care to patient in a very friendly and homely
                 environment.
