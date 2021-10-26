@@ -27,25 +27,25 @@
         "id": "104",
         "name": "Vascular Surgeon",
         "price": "30000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "The Department of Vascular Surgery provides comprehensive services for patients with all types of peripheral vascular disorders, including the new technology of catheter-based intervention as well as traditional surgical treatments. Our staff provides dialysis access to allow those individuals with end-stage renal disease to begin treatment. Many patients are also treated for cerebrovascular disease to reduce the risk of stroke.",
         "image": "https://imgur.com/6Z7q62G.jpg",
-        "serviceDetail": ""
+        "serviceDetail": "Vascular surgery is a surgical subspecialty in which diseases of the vascular system, or arteries, veins and lymphatic circulation, are managed by medical therapy, minimally-invasive catheter procedures, and surgical reconstruction."
     },
     {
         "id": "105",
         "name": "Intensive care units (ICU)",
         "price": "8000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "description": "ICU is an organized system for the provision of care to critically ill patients that provides intensive and specialized medical and nursing care, an enhanced capacity for monitoring, and multiple modalities of physiologic organ support to sustain life during a period of life-threatening organ system insufficiency",
         "image": "https://imgur.com/4xJ40yd.jpg",
-        "serviceDetail": ""
+        "serviceDetail": "ICU equipment may be used to monitor the patient and/or help treat their illness. NET brand ICU Equipment have set new standards in intensive care. The ICU equipment we offer include Defibrillator, Patient Monitor, Ventilator systems etc"
     },
     {
         "id": "106",
         "name": "Covid-19 patient special ",
         "price": "8000",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "description": "Best Hospital for Corona Treatment in Dhaka Life &Care Hospital. has the most robust and comprehensive COVID care facility in the country.provides 24/7 specialist coverage in Emergency to triage & identify COVID & Non-COVID patients, reliable Coronavirus/ COVID test by RT PCR method in out-patient, Post Covid Rehab, home sample collection,bulk sample collection & fast track service.",
         "image": "https://imgur.com/P1HuZoI.jpg",
-        "serviceDetail": ""
+        "serviceDetail": "The best hospitals for treating patients with Coronavirus in Dhaka. United Hospital provides 24/7 specialist coverage in Emergency to triage & identify COVID & Non-COVID patients, reliable Coronavirus/ COVID test by RT PCR method in out-patient, Post Covid Rehab, home sample collection, bulk sample collection & fast track service."
     }
     
 ]
