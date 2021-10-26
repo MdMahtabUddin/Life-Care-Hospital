@@ -1,5 +1,8 @@
-
-
-.hero-section{
-    /* height: 500px; */
+.hero {
+  background-color: #102040;
+  color: aliceblue;
+  height: 35rem;
+}
+.hero-title {
+  color: aquamarine;
 }

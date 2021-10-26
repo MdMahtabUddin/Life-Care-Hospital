@@ -1,6 +1,6 @@
 import React from 'react';
 import './HeroSection.css';
-import doctorImg from '../../../images/hero-section-img.png';
+import doctors from '../../../images/doctors.png';
 
 import Typist from 'react-typist';
 import { NavLink } from 'react-router-dom';
@@ -11,16 +11,14 @@ import { faAngleDoubleRight } from '@fortawesome/free-solid-svg-icons'
 
 const HeroSection = () => {
     return (
+        <section className="hero" >
         <div className="container hero-section py-5">
             <div className="row justify-content-center align-items-center">
-                <div className="col-md-6 lh-lg" data-aos="fade-right">
-                    <small className="fw-light text-secondary">For Better Wellness & Hope</small>
-                    <h1>Welcome to LifeSpring
-                        <br />
-                        Psychiatric Clinic
-
-                    </h1>
-
+                <div className="col-md-6 lh-lg " data-aos="fade-right">
+                    <small className="fw-light text-secondary"></small>
+                    
+                       <h1> Welcome to <br /> <span className="hero-title" >Life and Care Hospital</span></h1>
+                    
                     <p className="text-secondary">
                         <small>
                             <Typist>
@@ -38,12 +36,13 @@ const HeroSection = () => {
                 </div>
                 <div className="col-md-6" data-aos="fade-left">
                     <div>
-                        <img className="img-fluid w-100" src={doctorImg} alt="" />
+                        <img className="img-fluid w-50 " src={doctors} alt="" />
                     </div>
                 </div>
 
             </div>
         </div>
+        </section>
     );
 };
 

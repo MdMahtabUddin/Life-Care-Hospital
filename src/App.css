@@ -1,25 +1,23 @@
-
-
 /* global styles */
 
-body{
-  font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-.custom-green-btn{
-  background-color: #0E6832;
+.custom-green-btn {
+  background-color: #0e6832;
   color: white;
 }
 
-.custom-green-btn:hover{
-  background-color: #0E6832;
+.custom-green-btn:hover {
+  background-color: #0e6832;
   color: white;
 }
 
-.custom-green-color{
-  color: #0E6832;
+.custom-green-color {
+  color: #0e6832;
 }
-
+/* 
 .page-title-container{
   height: 300px;
   width: 100%;
@@ -27,5 +25,4 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
-
+} */

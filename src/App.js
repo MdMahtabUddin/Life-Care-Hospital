@@ -20,6 +20,7 @@ import OurTeam from './components/OurTeam/OurTeam';
 import Footer from './components/Footer/Footer';
 import Blogs from './components/Blog/Blogs/Blogs';
 import ReadBlog from './components/Blog/ReadBlog/ReadBlog';
+import AllServices from './components/Home/AllServices/AllServices';
 
 
 
@@ -42,6 +43,9 @@ function App() {
               <Route path="/home">
                 <Home></Home>
               </Route>
+              <PrivateRoute path="/service">
+                <AllServices></AllServices>
+              </PrivateRoute>
 
               <Route path="/about">
                 <AboutUs></AboutUs>

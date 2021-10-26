@@ -42,8 +42,8 @@ const Header = () => {
                                 <Link to="/" className="nav-link">HOME</Link>
                             </li>
                             <li className="nav-item cool-link">
-                                <HashLink as={HashLink} to="/home#ourservices" className="nav-link">SERVICES</HashLink>
-                               
+                                {/* <HashLink as={HashLink} to="/home#ourservices" className="nav-link">SERVICES</HashLink> */}
+                                <Link to="/service" className="nav-link">SERVICES</Link>
                             </li>
                             
                             <li className="nav-item cool-link">
